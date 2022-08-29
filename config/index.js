@@ -21,7 +21,7 @@ export const config = {
     // 所在省份
     PROVINCE: "四川",
     // 所在城市
-    CITY: "自贡",
+    CITY: "成都",
 
     /** 生日相关 */
 
